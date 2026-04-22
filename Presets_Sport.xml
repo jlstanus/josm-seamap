@@ -6,9 +6,9 @@
            fr.shortdescription="Sports Nautiques Pro"
            de.shortdescription="Wassersport Pro">
 
-  <group name="Water Sports" de.name="Wassersport" fr.name="Sports nautiques" icon="https://github.com/OpenSeaMap/josm/blob/master/icons/png/sailing.png">
+  <group name="Water Sports" de.name="Wassersport" fr.name="Sports nautiques" icon="https://raw.githubusercontent.com/jlstanus/josm-seamap/master/icons/png/sailing.png">
     
-    <item name="Windsurfing" de.name="Wind-Surfen" fr.name="Planche à voile" icon="https://github.com/OpenSeaMap/josm/blob/master/icons/png/windsurfing.png" type="node,closedway,area">
+    <item name="Windsurfing" de.name="Wind-Surfen" fr.name="Planche à voile" icon="https://raw.githubusercontent.com/jlstanus/josm-seamap/master/icons/png/windsurfing.png" type="node,closedway,area">
       <link href="http://wiki.openstreetmap.org/wiki/Tag:sport=windsurfing" />
       <label text="Windsurfing Area / Spot" fr.text="Zone / Spot de Planche à voile"/>
       <key key="sport" value="windsurfing"/>
